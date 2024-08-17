@@ -1,4 +1,4 @@
-<!-- 0.- LOGIN_REGISTER_BASICO-V1-->
+<!-- 0.- LOGIN_REGISTER_BASICO-V1-P(1-2)-->
 
 # LOGIN BASICO ANGULAR 17 CON LARAVEL 10 Y JWT
 
@@ -6,4 +6,4 @@
 
 ![Texto alternativo](imagenes/login_basico.png "Título opcional")
 
-<!-- /0.- LOGIN_REGISTER_BASICO-V1-->
+<!-- /0.- LOGIN_REGISTER_BASICO-V1-P(1-2)-->
